@@ -1,1 +1,1 @@
-getgenv().List = {}
+getgenv().List = {"" , "" , "" , ""}
