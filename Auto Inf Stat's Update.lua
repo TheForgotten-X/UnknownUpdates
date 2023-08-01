@@ -1,1 +1,1 @@
-getgenv().CurrentUpdate = "v2"
+getgenv().CurrentUpdate = "v2.0"
